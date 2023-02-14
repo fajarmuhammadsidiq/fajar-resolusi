@@ -2,4 +2,5 @@ Fajar resolusi :
   Konsisten setiap hari mempelajari hal baru 
   menjadi salaha satu frontend di perusahaan besar
   berkolaborasi dengan lebih banyak expert 
+  mencoba machine learning dengan phyton
   
