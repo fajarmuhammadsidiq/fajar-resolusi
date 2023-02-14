@@ -3,3 +3,4 @@ Rencana kontentt fajar
   mau bikin video tutor flutter 
   mau bikin beberapa porto 
   menambah fundamentail custom paint 
+  bisa membuat flutter dengan clean arsitektur 
