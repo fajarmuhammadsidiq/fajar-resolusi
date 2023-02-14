@@ -2,3 +2,4 @@ Rencana kontentt fajar
   mau bikin video tutor dart 
   mau bikin video tutor flutter 
   mau bikin beberapa porto 
+  menambah fundamentail custom paint 
